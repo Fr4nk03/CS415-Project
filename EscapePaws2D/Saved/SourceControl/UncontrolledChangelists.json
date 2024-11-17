@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/EscapePaws2D/Content/NewMap.umap",
+				"D:/Unreal Projects/EscapePaws2D/Content/Maps/NewMap.umap",
+				"D:/Unreal Projects/EscapePaws2D/Content/Maps/Map1.umap",
+				"D:/Unreal Projects/EscapePaws2D/Content/Industrial_Zone_Tileset/industrial.uasset",
+				"D:/Unreal Projects/EscapePaws2D/Content/Industrial_Zone_Tileset/1_Tiles/IndustrialTile_04_TileSet.uasset",
+				"D:/Unreal Projects/EscapePaws2D/Content/Industrial_Zone_Tileset/1_Tiles/IndustrialTile_05_TileSet.uasset",
+				"D:/Unreal Projects/EscapePaws2D/Content/Industrial_Zone_Tileset/1_Tiles/IndustrialTile_06_TileSet.uasset",
+				"D:/Unreal Projects/EscapePaws2D/Content/Industrial_Zone_Tileset/1_Tiles/IndustrialTile_25_TileSet.uasset",
+				"D:/Unreal Projects/EscapePaws2D/Content/Industrial_Zone_Tileset/1_Tiles/IndustrialTile_31_TileSet.uasset",
+				"D:/Unreal Projects/EscapePaws2D/Content/Industrial_Zone_Tileset/1_Tiles/IndustrialTile_32_TileSet.uasset",
+				"D:/Unreal Projects/EscapePaws2D/Content/Industrial_Zone_Tileset/1_Tiles/IndustrialTile_33_TileSet.uasset",
+				"D:/Unreal Projects/EscapePaws2D/Content/Industrial_Zone_Tileset/1_Tiles/IndustrialTile_36_TileSet.uasset",
+				"D:/Unreal Projects/EscapePaws2D/Content/Industrial_Zone_Tileset/1_Tiles/IndustrialTile_54_TileSet.uasset",
+				"D:/Unreal Projects/EscapePaws2D/Content/Industrial_Zone_Tileset/1_Tiles/IndustrialTile_45_TileSet.uasset",
+				"D:/Unreal Projects/EscapePaws2D/Content/Industrial_Zone_Tileset/1_Tiles/IndustrialTile_74_TileSet.uasset",
+				"D:/Unreal Projects/EscapePaws2D/Content/Industrial_Zone_Tileset/1_Tiles/IndustrialTile_75_TileSet.uasset",
+				"D:/Unreal Projects/EscapePaws2D/Content/Industrial_Zone_Tileset/1_Tiles/IndustrialTile_76_TileSet.uasset",
+				"D:/Unreal Projects/EscapePaws2D/Content/Industrial_Zone_Tileset/1_Tiles/IndustrialTile_02_TileSet.uasset",
+				"D:/Unreal Projects/EscapePaws2D/Content/Industrial_Zone_Tileset/1_Tiles/IndustrialTile_03_TileSet.uasset"
+			]
+		}
+	]
+}
