@@ -5,7 +5,7 @@ Genre: 2D Platform
 
 Group Members: Aoyang Li, Jincheng Xu, Kelsey Ren, Peng Chen
 
-Summary: (1 to 2 paragraphs describing the game and what a player does in it)
+Summary:
 
 The game is based on the background story of a cat in an experiment facility trying to escape and his goal is to release as many other cats as possible and get out of the facility. The environment in each level is designed to test the living capabilities of the cats and therefore may have different weather conditions or terrain settings.
 
