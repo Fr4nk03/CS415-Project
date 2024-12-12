@@ -1,8 +1,5 @@
 # CS415 Project
- Game Development: Escape Paws
-
-
-Game Title: Escape Paws
+Game Development: Escape Paws
 
 Genre: 2D Platform
 
